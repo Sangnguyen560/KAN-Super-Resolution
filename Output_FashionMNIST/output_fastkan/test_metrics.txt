@@ -1,0 +1,2 @@
+Test PSNR: 20.07
+Test SSIM: 0.5169
